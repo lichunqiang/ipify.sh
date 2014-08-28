@@ -5,7 +5,7 @@ ipify.sh
 
 ## 使用
 
-```
+```sh
 $ git clone git@github.com:lichunqiang/ipify.sh.git
 $ chmod +x ipify.sh
 $ ./ipify.sh
